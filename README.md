@@ -10,10 +10,11 @@ https://youtu.be/7x6FGic5XNE
 ### `pipenv install`
 ### `pipenv shell`
 ### `python run.py`
+(Runs locally on port 5000)
 
 ## & Front
 ### `cd frontend`
 ### `npm install`
 ### `npm start`
-
+(Runs locally on port 3000)
 

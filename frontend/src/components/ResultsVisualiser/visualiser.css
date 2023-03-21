@@ -1,0 +1,6 @@
+#chartdiv {
+    height: 60vh;
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgb(248, 248, 248) 66%, rgb(245, 245, 245) 100%);
+    resize: both;
+    overflow: auto;
+}

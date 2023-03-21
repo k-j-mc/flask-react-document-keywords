@@ -1,0 +1,12 @@
+.loaderCircle {
+  color: #61dafb !important;
+  top: 50%;
+  left: 50%;
+}
+
+.gridCenterItems {
+  padding: 30px 0 30px 0; 
+  align-items: center; 
+  justify-content: center; 
+  text-align: center;
+}

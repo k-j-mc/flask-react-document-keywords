@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "37081650d6cc2c8ac0a22fa5179609a02d2849c170fd13d453a3fe9b593eb232"
+            "sha256": "f2122f3ef5a1be73a631a6b00e6794f29f2189176f6cca84f11e84c11590604b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -467,6 +467,14 @@
             "markers": "python_version >= '3.6'",
             "version": "==2.14.0"
         },
+        "pypdf2": {
+            "hashes": [
+                "sha256:a74408f69ba6271f71b9352ef4ed03dc53a31aa404d29b5d31f53bfecfee1440",
+                "sha256:d16e4205cfee272fbdc0568b68d82be796540b1537508cef59388f839c191928"
+            ],
+            "index": "pypi",
+            "version": "==3.0.1"
+        },
         "pyrsistent": {
             "hashes": [
                 "sha256:016ad1afadf318eb7911baa24b049909f7f3bb2c5b1ed7b6a8f21db21ea3faa8",
@@ -916,7 +924,7 @@
                 "sha256:5cb5f4a79139d699607b3ef622a1dedafa84e115ab0024e0d9c044a9479ca7cb",
                 "sha256:fb33085c39dd998ac16d1431ebc293a8b3eedd00fd4a32de0ff79002c19511b4"
             ],
-            "markers": "python_version < '3.9'",
+            "markers": "python_version < '3.10'",
             "version": "==4.5.0"
         },
         "urllib3": {

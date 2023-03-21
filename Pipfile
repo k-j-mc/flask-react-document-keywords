@@ -9,6 +9,7 @@ flask-restx = "*"
 python-decouple = "*"
 flask-cors = "*"
 keybert = "*"
+pypdf2 = "*"
 
 [dev-packages]
 
